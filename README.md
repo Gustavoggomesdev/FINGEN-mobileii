@@ -91,4 +91,3 @@ MIT License
 
 ---
 
-Desenvolvido com Flutter 💙
